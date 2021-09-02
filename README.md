@@ -1,5 +1,5 @@
-# tinlake-pools-kovan
-This repo stores pool metadata of active Tinlake pools on Kovan.
+# tinlake-pools-goerli
+This repo stores pool metadata of active Tinlake pools on goerli.
 
 ## Data Structure
 Pool metadata is stored in this repo. Use the following folder structure:
