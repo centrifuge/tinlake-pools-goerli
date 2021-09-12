@@ -28,6 +28,10 @@
     "ACTIONS": "0x3D7c0F2542091881d6cA24B30F84E2EA9478Ea0F",
     "PROXY_REGISTRY": "0x5476103DAA1828bC7376C7A262635451f6467dF8"
   },
+  "versions": {
+    "FEED": 2,
+    "POOL_ADMIN": 2
+  },
   "metadata": {
     "name": "Tinlake 3.5.0-rc1 Test",
     "shortName": "Tinlake 3.5.0-rc1 Test",
