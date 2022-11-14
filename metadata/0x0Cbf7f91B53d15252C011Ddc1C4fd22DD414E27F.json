@@ -1,0 +1,56 @@
+{
+  "network": "goerli",
+  "version": 3,
+  "addresses": {
+    "ROOT_CONTRACT": "0x0Cbf7f91B53d15252C011Ddc1C4fd22DD414E27F",
+    "TINLAKE_CURRENCY": "0x11fE4B6AE13d2a6055C8D9cF65c55bac32B5d844",
+    "TITLE": "0x039e006D61Be2abf43b692A15c04fbf78DD6D1c4",
+    "PILE": "0x12fae4Dd6654eeCc2462831159eb449C1Afb47a8",
+    "FEED": "0xb19128169A3877FDd7904F47c858bcd33fD0F5C9",
+    "SHELF": "0x8b282b55D16F196dc98F86b1dE6C402fAda6f6aB",
+    "JUNIOR_TRANCHE": "0x35324c891f0A4dC02b1a9DAF5f87E8e54a6d5c4C",
+    "JUNIOR_TOKEN": "0x251263d9ab58dC189ef5F7b31b5055E0E030DF8B",
+    "JUNIOR_OPERATOR": "0x8CF09Da056F90402d56f81cfad7c0F1Ed562BF7a",
+    "JUNIOR_MEMBERLIST": "0xe5aD37e673c2bD5485AEf78E229d9F1733D52262",
+    "SENIOR_TRANCHE": "0xDe4832F2e38f9110A3f69e92B895BcC892B9657E",
+    "SENIOR_TOKEN": "0x3cC629B73d2ca92BB98770D3d0d418b0524651C6",
+    "SENIOR_OPERATOR": "0xCFD459674E705454Db1f7437566928D338279E97",
+    "SENIOR_MEMBERLIST": "0x73b4BFfCF2899183Fd2B04Ad6ba0c2900421e518",
+    "RESERVE": "0xD628a68cc86c8EB787E18cE536D5bEe85b30FD29",
+    "ASSESSOR": "0xeAf7dd3f35D2AF91c74b09A2b833Db713D119300",
+    "POOL_ADMIN": "0x6070111018602BE145A249e280333eDA0ae68Fb1",
+    "COORDINATOR": "0x1F07Bc59aC7cfC8a81f168a04986Cf8d5F41800C",
+    "CLERK": "0xa9fa9EE3a1438B7665fcfcEff9D1d2f716087f66",
+    "MAKER_MGR": "0x2dfb3c50d5C196B9b367641E3bfc95FD18a1CCee",
+    "MKR_VAT": "0xB966002DDAa2Baf48369f5015329750019736031",
+    "MKR_JUG": "0xC90C99FE9B5d5207A03b9F28A6E8A19C0e558916",
+    "ACTIONS": "0x3D7c0F2542091881d6cA24B30F84E2EA9478Ea0F",
+    "PROXY_REGISTRY": "0x5476103DAA1828bC7376C7A262635451f6467dF8"
+  },
+  "versions": {
+    "FEED": 2,
+    "POOL_ADMIN": 2
+  },
+  "metadata": {
+    "name": "Goerli Test Pool 1",
+    "shortName": "Goerli Pool 1",
+    "slug": "goerli=1",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam non pulvinar nisi. Quisque id orci quis orci tempor porta id sed nunc. Fusce at felis ultricies, porttitor ligula a, tincidunt magna. Donec ipsum orci, tincidunt sed placerat quis, lobortis vel sapien. Vestibulum blandit rhoncus sagittis. Nullam quis tincidunt orci. Integer non turpis in turpis placerat aliquam quis ut tortor. Pellentesque at imperdiet metus. Vivamus quis faucibus dolor. Ut libero elit, efficitur at urna in, dictum hendrerit diam. In vitae dapibus tellus. Phasellus eu nibh diam. Maecenas eget mattis sapien. Maecenas ullamcorper consequat sapien, sed ultricies augue sollicitudin blandit. Nunc vehicula sollicitudin auctor. In tempus odio sit amet quam bibendum eleifend eget quis nibh.",
+    "media": {
+      "logo": "https://storage.googleapis.com/tinlake/pool-media/consolfreight-4/logo.png",
+      "icon": "https://storage.googleapis.com/tinlake/pool-media/consolfreight-4/icon.svg",
+      "drop": "https://storage.googleapis.com/tinlake/pool-media/consolfreight-4/drop.svg",
+      "tin": "https://storage.googleapis.com/tinlake/pool-media/consolfreight-4/tin.svg"
+    },
+    "asset": "Goerli Assets",
+    "assetMaturity": "30 to 90 days",
+    "attributes": {
+      "Issuer": "Goerli Pilot LLC (Series 1",
+      "Links": {
+        "Executive Summary": "https://storage.googleapis.com/tinlake/docs/summaries/CF4.pdf",
+        "Discussion on Discourse": "https://gov.centrifuge.io/t/community-introduction-consolfreight/333",
+        "Website": "https://www.consolfreight.io/"
+      }
+    }
+  }
+}
