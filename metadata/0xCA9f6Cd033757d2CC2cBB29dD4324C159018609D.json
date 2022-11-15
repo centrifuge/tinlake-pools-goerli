@@ -1,0 +1,56 @@
+{
+  "network": "goerli",
+  "version": 3,
+  "addresses": {
+    "ROOT_CONTRACT": "0xCA9f6Cd033757d2CC2cBB29dD4324C159018609D",
+    "TINLAKE_CURRENCY": "0x11fE4B6AE13d2a6055C8D9cF65c55bac32B5d844",
+    "TITLE": "0x39479E1f5f52A6B722baDD33C74146d185BAd161",
+    "PILE": "0x669bCFCA394b49AD3cC468E7790d17a5c55b3030",
+    "FEED": "0x8c7b501AD4bc068a096b46F7C9C49201Fff2c4e9",
+    "SHELF": "0xF865bf098b4B799318d5134b87d31826b169948c",
+    "JUNIOR_TRANCHE": "0xf99e72ef07CEa063DCFD673371815bb27b3E0bb0",
+    "JUNIOR_TOKEN": "0xC97168Bc7dae961C343Fe40fe05A1869b05F3E5D",
+    "JUNIOR_OPERATOR": "0xD03B7FE966e1DfC9d9643DEe9ee77cdCd2d5deEc",
+    "JUNIOR_MEMBERLIST": "0xA696560D846130C2e89452fB5Df70BceDF61Eb8f",
+    "SENIOR_TRANCHE": "0x1F3Fc274C9356ca35a2cF9BC5dD12C899a4a759d",
+    "SENIOR_TOKEN": "0xe34E652351b72Fd603604E000F7F7FaFB5e49A98",
+    "SENIOR_OPERATOR": "0x3136FBb08a7D3386c993Cc2cC59c4d6E34673eE0",
+    "SENIOR_MEMBERLIST": "0xcDF24E6124bfBd16E82b3087F392BDc37D577c08",
+    "RESERVE": "0xfA183c7Dc737941A1bf536cd4d5e094659E7721E",
+    "ASSESSOR": "0xDD6E5c3aC8E89663142D0d1b571b02AdEb744d66",
+    "POOL_ADMIN": "0x98D08207d5d4C513EAa2A51F955EF84730cB71ce",
+    "COORDINATOR": "0x85b78824aF4350043aBb3FDB15Cc1C989F089142",
+    "CLERK": "0x7f15623ac88b754b4a55C8e25Ca8147d0D3b0960",
+    "MAKER_MGR": "0x8F4caAb3611F60Fe5e958690a3F8d5ecfA7A9535",
+    "MKR_VAT": "0xB966002DDAa2Baf48369f5015329750019736031",
+    "MKR_JUG": "0xC90C99FE9B5d5207A03b9F28A6E8A19C0e558916",
+    "ACTIONS": "0x3D7c0F2542091881d6cA24B30F84E2EA9478Ea0F",
+    "PROXY_REGISTRY": "0x5476103DAA1828bC7376C7A262635451f6467dF8"
+  },
+  "versions": {
+    "FEED": 2,
+    "POOL_ADMIN": 2
+  },
+  "metadata": {
+    "name": "BlockTower Series 1",
+    "shortName": "BlockTower 1",
+    "slug": "blocktower-1",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam non pulvinar nisi. Quisque id orci quis orci tempor porta id sed nunc. Fusce at felis ultricies, porttitor ligula a, tincidunt magna. Donec ipsum orci, tincidunt sed placerat quis, lobortis vel sapien. Vestibulum blandit rhoncus sagittis. Nullam quis tincidunt orci. Integer non turpis in turpis placerat aliquam quis ut tortor. Pellentesque at imperdiet metus. Vivamus quis faucibus dolor. Ut libero elit, efficitur at urna in, dictum hendrerit diam. In vitae dapibus tellus. Phasellus eu nibh diam. Maecenas eget mattis sapien. Maecenas ullamcorper consequat sapien, sed ultricies augue sollicitudin blandit. Nunc vehicula sollicitudin auctor. In tempus odio sit amet quam bibendum eleifend eget quis nibh.",
+    "media": {
+      "logo": "https://storage.googleapis.com/tinlake/pool-media/consolfreight-4/logo.png",
+      "icon": "https://storage.googleapis.com/tinlake/pool-media/consolfreight-4/icon.svg",
+      "drop": "https://storage.googleapis.com/tinlake/pool-media/consolfreight-4/drop.svg",
+      "tin": "https://storage.googleapis.com/tinlake/pool-media/consolfreight-4/tin.svg"
+    },
+    "asset": "Credit",
+    "assetMaturity": "30 to 90 days",
+    "attributes": {
+      "Issuer": "Goerli Pilot LLC (Series 1",
+      "Links": {
+        "Executive Summary": "https://storage.googleapis.com/tinlake/docs/summaries/CF4.pdf",
+        "Discussion on Discourse": "https://gov.centrifuge.io/t/community-introduction-consolfreight/333",
+        "Website": "https://www.consolfreight.io/"
+      }
+    }
+  }
+}
