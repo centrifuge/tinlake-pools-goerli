@@ -51,7 +51,11 @@
       "Links": {
         "Executive Summary": "https://storage.googleapis.com/tinlake/docs/summaries/CF4.pdf",
         "Discussion on Discourse": "https://gov.centrifuge.io/t/community-introduction-consolfreight/333",
-        "Website": "https://www.consolfreight.io/"
+        "Website": "https://www.consolfreight.io/",
+        "Agreements": {
+          "0": "Qmd7c9rhxBJ1Nw9WMBovMtPF4V3hzEc6pJYF2VboXfYDFe",
+          "1": "Qmd7c9rhxBJ1Nw9WMBovMtPF4V3hzEc6pJYF2VboXfYDFe"
+        }
       }
     },
     "issuerEmail": "jp@k-f.co",
