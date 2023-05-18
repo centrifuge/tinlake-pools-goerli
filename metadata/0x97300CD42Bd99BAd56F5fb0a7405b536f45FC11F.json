@@ -60,6 +60,10 @@
       }
     },
     "issuerEmail": "anna@k-f.co",
-    "repName": "Anna"
+    "repName": "Anna",
+    "newInvestmentsStatus": {
+      "senior": "closed",
+      "junior": "closed"
+    }
   }
 }

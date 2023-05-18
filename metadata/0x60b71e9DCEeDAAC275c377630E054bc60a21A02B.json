@@ -59,6 +59,10 @@
       }
     },
     "issuerEmail": "jp@k-f.co",
-    "repName": "JP"
+    "repName": "JP",
+    "newInvestmentsStatus": {
+      "senior": "open",
+      "junior": "closed"
+    }
   }
 }

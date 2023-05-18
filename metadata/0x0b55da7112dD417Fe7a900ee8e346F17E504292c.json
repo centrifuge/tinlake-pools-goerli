@@ -59,6 +59,10 @@
       }
     },
     "issuerEmail": "sophia@k-f.co",
-    "repName": "Sophia"
+    "repName": "Sophia",
+    "newInvestmentsStatus": {
+      "senior": "open",
+      "junior": "request"
+    }
   }
 }
