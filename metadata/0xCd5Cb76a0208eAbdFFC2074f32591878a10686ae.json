@@ -59,6 +59,10 @@
       }
     },
     "issuerEmail": "onno@k-f.co",
-    "repName": "Onno"
+    "repName": "Onno",
+    "newInvestmentsStatus": {
+      "senior": "request",
+      "junior": "open"
+    }
   }
 }
