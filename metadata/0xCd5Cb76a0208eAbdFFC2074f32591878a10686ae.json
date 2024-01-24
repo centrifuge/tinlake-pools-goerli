@@ -58,12 +58,17 @@
         }
       }
     },
+    "archivedValues": {
+      "legacyLink": "https://v2.tinlake.centrifuge.io/pool/0x90abc0adb789111b4b865fdb3350b14a6e78794e/paperchain-pilot",
+      "totalFinancedCurrency": "99434000000000000000000",
+      "financingsCount": "6",
+      "seniorInterestRate": "1000000003170979198376458650"
+    },
     "issuerEmail": "onno@k-f.co",
     "repName": "Onno",
     "newInvestmentsStatus": {
       "senior": "request",
       "junior": "open"
-    },
-    "archived": true
+    }
   }
 }
